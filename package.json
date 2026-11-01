@@ -1,0 +1,17 @@
+{
+  "name": "node-mongo-lab",
+  "version": "1.0.0",
+  "description": "Student CRUD application using Node.js, Express and MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  }
+}
